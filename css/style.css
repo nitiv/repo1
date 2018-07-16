@@ -1,0 +1,174 @@
+
+header{
+  overflow: hidden;
+  background-color:#999999;
+  border-radius: 5px;
+  position:fixed;
+  top:0;
+}
+.wrap{
+  
+  margin: 10px 10px 10px;
+  color:#696969;
+  margin-top: 15px;
+  font-size: 22px;
+}
+.wrap h1{
+          color:#000000;
+          float: left;
+}
+.grid_4 h2{
+  font-size: 22px;
+}
+nav{
+  float:right;
+  margin-top: 20px;
+}
+nav li{
+   display: inline;
+  padding-left: 10px;
+  font-size: 20px;
+}
+nav a{
+  text-decoration: none;
+  color:#000000;
+}
+nav a:hover{
+  color:blue;
+}
+nav li:last-child{
+  padding-right: 10px;
+}
+
+.cover img{
+  height:217px;
+  width: 940px;
+  border-radius: 5px;
+  margin-top: 62px;
+  margin-bottom: 0px;
+}
+.text_block{
+  position: absolute;
+  margin-left: 310px;
+  margin-bottom: 10px;
+  font-family: 'merienda',cursive;
+  color: black; 
+}
+#hero{
+  margin-top: 310px;
+  font-size: 50px;
+ 
+  font-family:sans-serif;
+}
+.main{
+  margin-top: 10px;
+}
+.main img{
+  border-radius: 5px;
+  width:300px;
+  height:200px;
+}
+body{
+  background-color: #FFFFCC;
+}
+.main section{
+  border: 2px solid #e3e3e3;
+  padding: 3px;
+  border-radius: 4px;
+  background-color: #999999;
+
+}
+.grid_4 img{
+  width:290px;
+  height:200px;
+}
+.grid_4 ul{
+  font-size: 18px;
+  color: #000000;
+  font-family: loco;
+}
+.grid_4 li{
+  margin: 0 0 5px 0;
+}
+ .grid_4 h3{
+  font-size: 50px;
+  font-weight: 700;
+  letter-spacing: 1px;
+  margin-bottom: 2px;
+  margin-top: 20px;
+  color:#000000;
+}
+section p{
+  font-size:18px;
+  font-weight: 500;
+  margin-top: 15px;
+  line-height: 1.8;
+  color:#000000;
+  font-family: loco;
+  text-align: justify;
+
+}
+.grid_6{
+  margin-top: 10px;
+}
+.grid_6 img
+{
+  border-radius: 5px;
+  width:450px;
+  height:200px;
+
+}
+.grid_6 section{
+   border: 2px solid #e3e3e3;
+  padding: 3px;
+  float: right;
+  border-radius: 4px;
+  background-color: #999999;
+}
+#hero{
+font-size:50px;
+font-family: "Fredericka the Great", sans-serif;
+margin-top: 220px;
+}
+.text-block{
+  position: absolute;
+  font-family:"Fredericka the Great", sans-serif;
+  margin-left: 210px;
+  color: black;
+}
+.grid_6 h1
+{
+  font-size: 20px;
+}
+.grid_6 h2
+{padding-top: 6px;
+  font-size: 22px;
+}
+
+
+footer{
+  clear:both;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  border-top: 5px solid #d1d1d1;
+  padding-top: 15px;
+  color: #7e7e7e;
+}
+footer p{
+  float: left;
+  margin-left: 20px;
+}
+footer ul{
+  float:right;
+}
+footer li{
+  display: inline;
+  padding-left: 15px;
+  font-size: 20px;
+}
+footer a:hover{
+  color:black;
+}
+footer a{
+  text-decoration: none;
+}
